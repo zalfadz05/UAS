@@ -8,7 +8,7 @@
 
 # Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini :
 
-
+![Screenshot (198)](https://user-images.githubusercontent.com/115516617/211242905-29ebf1c9-47f9-4cdf-833f-4928c6c14ea2.png)
 
 ```daftar_nilai.py```
 
@@ -64,4 +64,9 @@ i.write('\nNama : ' + nama + '|Nim : ' + str(nim) + '|Tugas : ' + str(tugas) + '
     uas) + "|Akhir : " + str(akhir) + '\n')
 i.close()
 Oc("clear")```
+
+# Output Tambah Data
+
+
+
 
