@@ -92,6 +92,6 @@ while True:
 
 ![Screenshot (210)](https://user-images.githubusercontent.com/115516617/211343267-38c38f8e-a671-4046-99a5-8a133c470b32.png)
 
-sekian.
+sekian..
 
 
