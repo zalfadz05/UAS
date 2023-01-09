@@ -36,15 +36,15 @@
 
 Kemudian saya tlah menyamtukan syntax yang nanti akan menghasilkan semua modul dari daftar_nilai yang diantaranya adalah (tambah data,ubah data,lihat data,hapus data,dan cari data)
 
-```from model.daftar_nilai import *
-from view.view_nilai import *
+      ```from model.daftar_nilai import *
+      from view.view_nilai import *
 
-#Mulai
-print("===============================================================")
-print("|                           Program                           |")
-print("===============================================================")
+      #Mulai
+      print("===============================================================")
+      print("|                           Program                           |")
+      print("===============================================================")
 
-while True:
+    while True:
     print("\n")
     menu = input("(L) Lihat, (T) Tambah, (H) Hapus, (U) Ubah, (C) Cari, (K) Keluar\nPilih menu: ")
     print("\n")
@@ -71,6 +71,7 @@ while True:
 
     else:
         print("Upss ada yang salah, silahkan cek kembali.")```
+OUTPUTNYA :
         
 # output tambah_data
 
