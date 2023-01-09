@@ -36,43 +36,10 @@
 
 Kemudian saya tlah menyamtukan syntax yang nanti akan menghasilkan semua modul dari daftar_nilai yang diantaranya adalah (tambah data,ubah data,lihat data,hapus data,dan cari data)
 
-      ```from model.daftar_nilai import *
-      from view.view_nilai import *
+![Screenshot (199)](https://user-images.githubusercontent.com/115516617/211346640-80838d11-9fd7-48ec-a066-86dd461383db.png)
 
-      #Mulai
-      print("===============================================================")
-      print("|                           Program                           |")
-      print("===============================================================")
+![Screenshot (200)](https://user-images.githubusercontent.com/115516617/211346787-4e8ec4db-290c-44d2-bfe8-0ad67a87123f.png)
 
-    while True:
-    print("\n")
-    menu = input("(L) Lihat, (T) Tambah, (H) Hapus, (U) Ubah, (C) Cari, (K) Keluar\nPilih menu: ")
-    print("\n")
-
-    # menu
-    if menu.lower() == 't':
-        tambah_data()
-
-    elif menu.lower() == 'c':
-        cari_data()
-
-    elif menu.lower() == 'l':
-        lihat_data()
-
-    elif menu.lower() == 'u':
-        ubah_data()
-
-    elif menu.lower() == 'h':
-        hapus_data()
-
-    # Keluar
-    elif menu.lower() == 'k':
-        break
-
-    else:
-        print("Upss ada yang salah, silahkan cek kembali.")```
-OUTPUTNYA :
-        
 # output tambah_data
 
 ![Screenshot (206)](https://user-images.githubusercontent.com/115516617/211342606-5271a23b-9cae-4721-88fe-b2a2c97f3a3c.png)
